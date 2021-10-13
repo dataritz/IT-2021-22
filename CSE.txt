@@ -1,2 +1,2 @@
 This is my first git file
-Keyword - git, add commit
+Keyword - git, add commit, push, checkout
